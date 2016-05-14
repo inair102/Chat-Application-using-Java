@@ -1,5 +1,3 @@
-//package Chat Application using Java;
-
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
@@ -8,11 +6,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:31 PM
- */
 public class BlockingChatter implements Chatter {
 	
 	private final InputStream chatServerInput;

@@ -1,5 +1,3 @@
-//package edu.nyu.cs9053.homework11;
-
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
@@ -10,11 +8,6 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicReference;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:32 PM
- */
 public class NonBlockingChatter implements Chatter {
 	
 	private final SocketChannel chatServerChannel;
