@@ -3,8 +3,8 @@
 ##Description:
 This is a **Chat application** which is developed using the Java IO concepts - [Blocking IO](http://tutorials.jenkov.com/java-io/index.html) and [Non-Blocking IO](https://en.wikipedia.org/wiki/Non-blocking_I/O_(Java)). It runs on three different terminal tabs/windows:
 <ul>
-<li>First is the server which wilp handle the communication between the other two terminals - <strong>ChatServer</strong>
-<li>Second and  Third are the chatting windows, where users can exchange messages through each other - <strong>Chat</strong>
+<li>First is the server which will handle the communication between the other two terminals - <strong>ChatServer</strong>
+<li>Second and Third are the chatting windows, where users can exchange messages with each other - <strong>Chat</strong>
 </ul>
 
 ##How to Run:
